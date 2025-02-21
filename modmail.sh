@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pipenv run python3 bot.py
+python3.10 -m pipenv run handler
